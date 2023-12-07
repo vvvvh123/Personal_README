@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Cassandra, Spark, Hadoop**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/vvvvh123](https://github.com/vvvvh123)
+- 👨‍💻 Some of my projects are available at [GitHub](https://github.com/vvvvh123)
 
 - 📫 How to reach me **vikas@u.nus.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AIzUfHE4VRTqQ0_Hxwn9vC6SIvi-edOv/view?usp=sharing](https://drive.google.com/file/d/1AIzUfHE4VRTqQ0_Hxwn9vC6SIvi-edOv/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JkmSBY910rMRTP3lskzl_-NwQJN8H5UL/view?usp=sharing)
 
 - ⚡ Fun fact **I don't like tea or coffee!**
 
