@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vikas@u.nus.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10hDMHh8INB_GMnBFZ6jhh2VOvQ7bDiL7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aaTCBY9BxI27-RbCLmMiNziYXNJnLoSR/view?usp=sharing)
 
 - ⚡ Fun fact **I don't like tea or coffee!**
 
